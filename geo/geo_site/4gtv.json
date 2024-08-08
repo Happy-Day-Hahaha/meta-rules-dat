@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+      ],
+      "domain_suffix": [
+          "api2.4gtv.tv",
+          "4gtvfreemobile-cds.cdn.hinet.net",
+          "4gtvfree-cds.cdn.hinet.net"
+      ]
+    }
+  ]
+}
