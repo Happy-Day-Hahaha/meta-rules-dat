@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+          "histar.tv",
+          "ulivetv.net"
+      ],
+      "domain_suffix": [
+          "histar.tv",
+          "ulivetv.net"
+      ]
+    }
+  ]
+}
