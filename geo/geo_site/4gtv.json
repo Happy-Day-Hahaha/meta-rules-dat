@@ -2,7 +2,14 @@
   "version": 1,
   "rules": [
     {
+      "ip_cidr": [
+          "13.112.0.0/14"
+      ],
       "domain": [
+          "4gtv.tv",
+          "hinet.net",
+          "livednow.com",
+          "ofiii.com"
       ],
       "domain_suffix": [
           "api2.4gtv.tv",
