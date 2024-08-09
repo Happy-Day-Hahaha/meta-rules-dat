@@ -2,8 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-          "120.210.203.62"
+      "ip_cidr": [
+          "120.210.203.62/32"
       ],
       "domain_suffix": [
       ]
