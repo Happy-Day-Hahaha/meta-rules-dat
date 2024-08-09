@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+          "120.210.203.62",
+      ],
+      "domain_suffix": [
+      ]
+    }
+  ]
+}
