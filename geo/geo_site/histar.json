@@ -2,9 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-          "histar.tv",
-          "ulivetv.net"
+      "ip_cidr": [
+          "163.181.0.0/16"
       ],
       "domain_suffix": [
           "histar.tv",
